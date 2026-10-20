@@ -4,7 +4,7 @@ Algoritmo NUMERO_PAR_IMPAR
 	Escribir "ingrese su numero"
 	Leer num
 	
-	Si num % 2==0 Entonces
+	Si num MOD 2==0 Entonces
 		Escribir "es numero par"
 	SiNo
 		Escribir "es numero impar"
