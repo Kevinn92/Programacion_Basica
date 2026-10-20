@@ -1,1 +1,13 @@
-
+Algoritmo NUMERO_PAR_IMPAR
+	
+	Definir num Como Entero
+	Escribir "ingrese su numero"
+	Leer num
+	
+	Si num % 2==0 Entonces
+		Escribir "es numero par"
+	SiNo
+		Escribir "es numero impar"
+	Fin Si
+	
+FinAlgoritmo
