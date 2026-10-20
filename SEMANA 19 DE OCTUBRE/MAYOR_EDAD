@@ -1,1 +1,15 @@
+Algoritmo MAYOR_EDAD
+	
+	Definir edad Como Entero
+	Escribir "ingrese su edad"
+	Leer edad
+	
+	Si edad > 18 Entonces
+		Escribir "es mayor de edad"
+	SiNo
+		Escribir "es menor de edad"
+	Fin Si
+
+	
+FinAlgoritmo
 
