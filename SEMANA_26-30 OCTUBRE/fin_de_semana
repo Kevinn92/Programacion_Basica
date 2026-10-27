@@ -1,1 +1,15 @@
-
+Algoritmo pedir_nota
+	
+	definir num Como Real
+	escribir "digite un numero del 1 al 7 para saber el dia de la semana"
+	leer num
+	
+	si num>= 1 y num<= 5 Entonces
+	
+		Escribir "no es fin de semana"
+		
+	SiNo
+			Escribir "es fin de semana"
+		
+	Fin Si
+FinAlgoritmo
