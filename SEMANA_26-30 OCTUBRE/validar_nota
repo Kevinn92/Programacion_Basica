@@ -1,1 +1,13 @@
-
+Algoritmo pedir_nota
+	DEFINIR nota Como Real
+	Escribir "ingrese la nota ";
+	Leer nota
+	Si nota>= 0 y nota <= 5 entonces
+		Escribir "nota valida"
+		
+	SiNo
+		Escribir "nota fuera de rango"
+		
+		
+	Fin Si
+FinAlgoritmo
