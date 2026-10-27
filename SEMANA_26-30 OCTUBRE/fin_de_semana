@@ -1,4 +1,4 @@
-Algoritmo pedir_nota
+Algoritmo fin_semana
 	
 	definir num Como Real
 	escribir "digite un numero del 1 al 7 para saber el dia de la semana"
