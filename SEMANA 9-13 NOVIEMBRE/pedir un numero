@@ -1,0 +1,14 @@
+Algoritmo suma
+
+	Definir i,suma Como Entero
+	
+	Leer n
+
+	suma<-0
+	Para i <- 1 Hasta n hacer
+	suma<-suma+i
+escribir suma
+	
+	FinPara
+Escribir "la cantidad de numeros al sumar es",n
+FinAlgoritmo
