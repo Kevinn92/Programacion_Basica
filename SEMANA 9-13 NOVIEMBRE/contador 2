@@ -1,1 +1,8 @@
+Algoritmo CONTADOR
+	Definir i Como Entero
+	Para i <- -50 Hasta 5 con paso -5 hacer
+	  escribir "el numero es: *,i
+	FinPara
+
+FinAlgoritmo
 
